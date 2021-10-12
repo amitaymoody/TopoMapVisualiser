@@ -8,7 +8,7 @@ This script was designed for use elevatinon data for Victoria, Australia, howeve
 
 Please change the various filepath and attribute fields to suit your workspace before running the script.
 
-![image](https://user-images.githubusercontent.com/72475218/136885623-e96fa103-e4fc-4d2b-aad9-9f23c7a388e4.png)
+![image](https://user-images.githubusercontent.com/72475218/136927883-fdc21d78-94f3-4120-b87b-1f2ed6e2f868.png)
 
 
 The output can be visualised in 3D using QGIS 3D map view layout by selecting the DEM as the elevation source and adjusting the elevation scale accordingly.
