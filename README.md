@@ -16,4 +16,4 @@ The output can be visualised in 3D using QGIS 3D map view layout by selecting th
 ![image](https://user-images.githubusercontent.com/72475218/136885890-fcc68223-3e0c-4b72-9f8c-c350aa1c06fa.png)
 
 
-Sample data is included to test the implementation of this script.
+A sample DEM for the Victorian Alps is included, allowing you to test your own implementation.
